@@ -14,7 +14,9 @@ Include screenshots or GIFs showcasing the website layout at different viewport 
 
 Examples of Layouts: 
 Laptop Layout: ![image](https://github.com/user-attachments/assets/fc9db6c8-b7f7-47a3-a893-a6049d2e7118)
+
 Iphone XR Layout: ![image](https://github.com/user-attachments/assets/2bc8fb22-52dc-46d7-866e-f1fa3d08eaae)
+
 Ipad Air Layout: ![image](https://github.com/user-attachments/assets/30a87461-1db5-40c2-af3d-5500c4f88c66)
   
 While the layouts above shows you several examples of what to expect, there are many more layouts on different devices depending on the dimensions of one's viewpoint.
