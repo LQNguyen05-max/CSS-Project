@@ -1,15 +1,16 @@
 # Agency Website Project
 This project showcases a simple, responsive website for a fictional Creative Design Agency.
 
-Overview
+# Overview
 The project consists of an HTML file (index.html) and a CSS file (style.css). The HTML file includes sections for a logo, a headline, two service cards, and a footer. The CSS file provides styling for layout, typography, and responsiveness.
 
-Features
-Responsive Design: Utilizes flexbox and media queries for responsiveness across different screen sizes.
-Typography: Uses the Google Font "Poppins" for a modern and clean look.
-Service Cards: Demonstrates two service sections ("Beauty" and "Construction") with accompanying images and descriptions.
-Footer: Includes a simple footer with a tagline.
-Screenshots
+# Features
+* Responsive Design: Utilizes flexbox and media queries for responsiveness across different screen sizes.
+* Typography: Uses the Google Font "Poppins" for a modern and clean look.
+* Service Cards: Demonstrates two service sections ("Beauty" and "Construction") with accompanying images and descriptions.
+* Footer: Includes a simple footer with a tagline.
+
+# Screenshots
 Include screenshots or GIFs showcasing the website layout at different viewport sizes (desktop, tablet, mobile).
 
 Examples of Layouts: 
@@ -27,15 +28,13 @@ While the layouts above shows you several examples of what to expect, there are 
 Usage
 To view the project locally:
 
-Clone the repository:
+1. Clone the repository:
+![image](https://github.com/user-attachments/assets/14059ddd-4a96-4d96-8dea-5f7213275b86)
 
-bash
-Copy code
-git clone https://github.com/your-username/agency-website.git
-Open index.html in a web browser.
+2. Open 'index.html' in a web browser.
 
-Contributing
+# Contributing
 Contributions are welcome! If you have any suggestions or improvements, please fork the repository and create a pull request.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
